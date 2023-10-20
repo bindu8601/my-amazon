@@ -2,7 +2,7 @@ import React from "react";
 function App() {
   return (
     <div className="App">
-      <h1>Hello People</h1>
+      <div className="text-3xl font-bold underline">Hello world!</div>
     </div>
   );
 }
